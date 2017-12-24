@@ -1,0 +1,28 @@
+
+
+.header {
+  align-items: center;
+  background-color: #EFEFEF;
+  background-image: url('mac.jpg');
+  background-position: cover;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  border-top: 4px solid #2394FE;
+  color: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  height: 40vh;
+  justify-content: center;
+  min-height: 250px;
+  padding: 0 20px;
+  position: relative;
+  text-align: center;
+}
+
+.tagline{
+  background: #2394FE
+}
+
+.skills {
+  background: #949393
+}
